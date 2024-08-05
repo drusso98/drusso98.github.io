@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD at <a href='https://www.fbk.eu/en/'>Fondazione Bruno Kessler</a> and <a href='https://www.unitn.it/en'>Univesity of Trento</a>.
 
 profile:
   align: right
@@ -10,13 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: false
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-(TEST) Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am currently a PhD student at the [University of Trento](https://www.unitn.it/en), working with the [Language and Dialogue Technologies (LanD) group](https://land.fbk.eu/) at [Fondazione Bruno Kessler](https://www.fbk.eu/en/) in Trento, Italy. My PhD in Information Engineering and Computer Science is centered on Natural Language Processing and Generation. I hold a master’s degree in Cognitive Science from the [CIMeC center](https://offertaformativa.unitn.it/en/lm/cognitive-science) of the University of Trento and a bachelor’s degree in Computer Science from the [University of Turin](https://en.unito.it/). My primary research goal is to develop advanced neural systems to effectively counter misinformation and fake news online.
