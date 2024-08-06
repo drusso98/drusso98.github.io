@@ -1,9 +1,11 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"TACL":
+  url: https://transacl.org/index.php/tacl
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
+"EMNLP 2023":
+  url: https://2023.emnlp.org/
   color: "#009f36"
+
+"EVALITA 2023":
+  url: https://www.evalita.it/campaigns/evalita-2023/
+  color: "#9E0069"
