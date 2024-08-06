@@ -1,157 +1,139 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Daniel Russo",
+    "label": "PhD Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "drusso@fbk.eu",
+    "url": "https://drusso98.github.io/",
+    "summary": "PhD in Natural Language Generation for countering online misinformation.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Via Sommarive, 18 Povo",
+      "postalCode": "38123",
+      "city": "Trento",
+      "countryCode": "IT",
+      "region": "Trentino"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "russ_eau",
+        "url": "https://twitter.com/russ_eau"
       }
     ]
   },
+  "education": [
+    {
+      "institution": "University of Trento & Fondazione Bruno Kessler",
+      "location": "Trento, Italy",
+      "url": "https://www.unitn.it/en",
+      "area": "Neural Models for knowledge-driven Natural Language Generation to fight misinformation.",
+      "studyType": "PhD",
+      "startDate": "2022-11-01",
+      "endDate": "2025-10-31"
+    },
+    {
+      "institution": "University of Trento",
+      "location": "Rovereto, Italy",
+      "url": "https://offertaformativa.unitn.it/en/lm/cognitive-science",
+      "area": "Cognitive Science - Language and Multimodal Interaction",
+      "studyType": "Master Degree",
+      "startDate": "2020-09-01",
+      "endDate": "2022-10-01"
+    },
+    {
+      "institution": "University of Turin",
+      "location": "Turin, Italy",
+      "url": "https://en.unito.it/",
+      "area": "Computer Science",
+      "studyType": "Bachelor Degree",
+      "startDate": "2017-09-01",
+      "endDate": "2020-10-01"
+    }
+  ],
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Fondazione Bruno Kessler",
+      "position": "Intern",
+      "url": "https://land.fbk.eu/",
+      "startDate": "2021-10-17",
+      "endDate": "2022-10-01",
+      "summary": "Intern at the Language and Dialogue Technologies (LanD) group at Fondazione Bruno Kessler, tutored by Marco Guerini. My research topic focuses on the development of Natural Language Generation (NLG) systems for countering online misinformation. During this experience, I became familiar with the summarization task, investigating various extractive and abstractive approaches. I employed pretrained Language Models for abstractive summarization, namely the Transformer models, exploring their potential and limitations (restricted input length, hallucinations, etc.)."
+    },
+    {
+      "name": "University of Trento",
+      "position": "Teaching Assistant",
+      "url": "https://www.unitn.it/en",
+      "startDate": "2021-08-01",
+      "endDate": "2022-11-01",
+      "summary": "Teaching Assistant for MSc Computational Skills for Text Analysis (Lecturer: Luca Ducceschi)."
+    },
+    {
+      "name": "University of Turin",
+      "position": "Intern",
+      "url": "https://en.unito.it/",
+      "startDate": "2020-03-01",
+      "endDate": "2020-16-01",
+      "summary": "Internship activity focused on thesis research and drafting. The internship was carried out in collaboration with the ICT of the Rai Radiotelevisione Italiana, as part of the M.EMO.RAI project, under the supervision of Professor Viviana Patti and Professor Valerio Basile."
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
+      "organization": "Student Volunteer at EMNLP 2023",
+      "location": "Singapore",
+      "position": "Student Volunteer",
       "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "startDate": "2023-12-06",
+      "endDate": "2023-12-10"
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "English C1 Advanced",
+      "date": "2017-06-01",
+      "issuer": "Cambridge University Press & Assessment English",
+      "url": "https://www.cambridgeenglish.org/",
+      "icon": "fa-solid fa-language"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "PoliticIT at EVALITA 2023: Overview of the Political Ideology Detection in Italian Texts Task",
+      "publisher": "EVALITA 2023",
+      "releaseDate": "2023-09-01",
+      "url": "https://ceur-ws.org/Vol-3473/paper7.pdf",
+      "summary": "Russo, D., Jiménez-Zafra, S. M., García-Díaz, J. A., Caselli, T., Guerini, M., Alfonso Ureña-López, L., & Valencia-García, R. (2023). PoliticIT at EVALITA 2023: Overview of the Political Ideology Detection in Italian Texts Task. In Proceedings of the Eighth Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. Final Workshop (EVALITA 2023)."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Benchmarking the Generation of Fact Checking Explanations",
+      "publisher": "TACL",
+      "releaseDate": "2020-10-01",
+      "url": "https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00601/117871/Benchmarking-the-Generation-of-Fact-Checking",
+      "summary": "Daniel Russo, Serra Sinem Tekiroğlu, and Marco Guerini. 2023. Benchmarking the Generation of Fact Checking Explanations. Transactions of the Association for Computational Linguistics, 11:1250–1264."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Countering Misinformation via Emotional Response Generation",
+      "publisher": "EMNLP 2023",
+      "releaseDate": "2020-12-01",
+      "url": "https://aclanthology.org/2023.emnlp-main.703/",
+      "summary": "Daniel Russo, Shane Kaszefski-Yaschuk, Jacopo Staiano, and Marco Guerini. 2023. Countering Misinformation via Emotional Response Generation. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 11476–11492, Singapore. Association for Computational Linguistics."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Computational Skills",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "Natural Language Processing and Generation",
+        "HuggingFace, PyTorch",
+        "Containerization using Docker"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Italian",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -163,38 +145,21 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Natural Language Generation",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Retrieval-Augmented Generation",
+        "Information Retrieval",
+        "Summarization"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Misinformation",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Automated Fact-Checking",
+        "Verdict Production"
+      ]
     }
   ]
 }
