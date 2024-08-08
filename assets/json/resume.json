@@ -106,14 +106,14 @@
     {
       "name": "Benchmarking the Generation of Fact Checking Explanations",
       "publisher": "TACL",
-      "releaseDate": "2020-10-01",
+      "releaseDate": "2023-10-01",
       "url": "https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00601/117871/Benchmarking-the-Generation-of-Fact-Checking",
       "summary": "Daniel Russo, Serra Sinem Tekiroğlu, and Marco Guerini. 2023. Benchmarking the Generation of Fact Checking Explanations. Transactions of the Association for Computational Linguistics, 11:1250–1264."
     },
     {
       "name": "Countering Misinformation via Emotional Response Generation",
       "publisher": "EMNLP 2023",
-      "releaseDate": "2020-12-01",
+      "releaseDate": "2023-12-01",
       "url": "https://aclanthology.org/2023.emnlp-main.703/",
       "summary": "Daniel Russo, Shane Kaszefski-Yaschuk, Jacopo Staiano, and Marco Guerini. 2023. Countering Misinformation via Emotional Response Generation. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 11476–11492, Singapore. Association for Computational Linguistics."
     }
