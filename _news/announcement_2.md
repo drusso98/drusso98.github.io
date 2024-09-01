@@ -4,6 +4,8 @@ title: Presenting PoliticIT shared task at EVALITA 2023
 date: 2023-09-08 16:11:00-0400
 inline: false
 related_posts: false
+images:
+    slider: true
 ---
 
 On the 7th and 8th of September 2023, I had the privilege of attending [EVALITA 2023](https://www.evalita.it/campaigns/evalita-2023/), in Parma, Italy, to present our shared task [PoliticIT](https://codalab.lisn.upsaclay.fr/competitions/8507).
