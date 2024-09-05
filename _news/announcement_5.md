@@ -6,8 +6,6 @@ inline: false
 related_posts: false
 ---
 
-From November 30 to December 2, I had the privilege of attending the [*Ninth Italian Conference on Computational Linguistics (CliC-it 2023)*](https://clic2023.ilc.cnr.it/) in the marvelous city of Venice. During the conference, I had the pleasure of presenting a poster on our TACL paper, [Benchmarking the Generation of Fact Checking Explanations](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00601/117871/Benchmarking-the-Generation-of-Fact-Checking), as a research coommunication. I also had many insightful conversations and shared some really nice moments with fellow attendees, which made the conference a truly enjoyable and memorable experience!
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/CliCit2023/conference_info.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -15,6 +13,11 @@ From November 30 to December 2, I had the privilege of attending the [*Ninth Ita
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/CliCit2023/clicit_group_pic.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
+</div>
+
+From November 30 to December 2, I had the privilege of attending the [*Ninth Italian Conference on Computational Linguistics (CliC-it 2023)*](https://clic2023.ilc.cnr.it/) in the marvelous city of Venice. During the conference, I had the pleasure of presenting a poster on our TACL paper, [Benchmarking the Generation of Fact Checking Explanations](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00601/117871/Benchmarking-the-Generation-of-Fact-Checking), as a research coommunication. I also had many insightful conversations and shared some really nice moments with fellow attendees, which made the conference a truly enjoyable and memorable experience!
+
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/CliCit2023/TACL_2023_poster.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
