@@ -12,6 +12,9 @@ From December 6 to 10, I had the opportunity to attend the [*2023 Conference on 
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/EMNLP2023/EMNLP_sessison_photo.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/EMNLP2023/FBK_EMNLP.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
 </div>
 
 The latest paper introcues VerMout, the first large-scale and general-domain dataset for the generation of counter-misinformation responses that mimic social media platform style. The dataset is grounded in trustworthy fact-checking articles and comprises ~12 thousand examples.
