@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Attenting the Lisbon Machine Learning Summer School (LxMLS)
+title: Attending the Lisbon Machine Learning Summer School (LxMLS)
 date: 2024-17-11 15:59:00-0400
 inline: false
 related_posts: false
