@@ -13,25 +13,23 @@ Organize your courses by years, topics, or universities, however you like!
 
 <div class="container">
   <div class="row justify-content-md-center">
-    <div class="col-md-auto">
-      1 of 3
+    <div class="col">
+      Attended Events
     </div>
-    <div class="col-md-auto">
-      Questo è un testo di prova.
+    <div class="col">
+      Reviewing Activities
     </div>
-    <div class="col-md-auto">
-      Testo ti prova un po' più lungo di quello prima. 
+    <div class="col">
+      Teaching 
     </div>
   </div>
   <div class="row">
-    <div class="col-md-auto">
-      Testo ti prova un po' più lungo di quello prima.Testo ti prova un po' più lungo di quello prima.Testo ti prova un po' più lungo di quello prima.Testo ti prova un po' più lungo di quello prima.
+    <div class="col">
+      Supervised students
     </div>
-    <div class="col-md-auto">
-      Testo ti prova un po' più lungo di quello prima.
+    <div class="col">
     </div>
-    <div class="col-md-auto">
-      3 of 3
+    <div class="col">
     </div>
   </div>
 </div>
