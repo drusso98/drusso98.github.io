@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-I had an incredible experience discussing insights and future directions for _countering misinformation with LLMs_ at the [Language Technology Highlights 2024 (LT@FBK2024)](https://lt-highlights.fbk.eu/home) event, held at the Fondazione Bruno Kessler in Povo, Trento. This one-day event brought together scientists, students, practitioners, and enthusiasts to explore the latest research achievements by various FBK units in language technologies. The event featured a keynote adressed by Barbara Plank from LMU Munich, alongside a series of oral and poster presentations showcasing cutting-edge research. It was a fantastic opportunity to engage with fresh ideas and stimulating conversations in the field of language technology.
+I had an incredible experience discussing insights and future directions for _countering misinformation with LLMs_ at the [Language Technology Highlights 2024 LT@FBK2024](https://lt-highlights.fbk.eu/home) event, held at the Fondazione Bruno Kessler in Povo, Trento. This one-day event brought together scientists, students, practitioners, and enthusiasts to explore the latest research achievements by various FBK units in language technologies. The event featured a keynote adressed by Barbara Plank from LMU Munich, alongside a series of oral and poster presentations showcasing cutting-edge research. It was a fantastic opportunity to engage with fresh ideas and stimulating conversations in the field of language technology.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
